@@ -53,9 +53,10 @@ function Users() {
           </ul>
         </nav>
       </div>
+        <div className='title_d'>
         <h1 className='main-title'>Usuarios</h1>
+        </div>
         <div className="user-list">
-          <h2 className='title'>Lista de Usuarios</h2>
           <div className="table-container">
           <table>
               <thead className='title-t'>

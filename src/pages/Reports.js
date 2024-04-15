@@ -55,9 +55,11 @@ function Reports() {
           </ul>
         </nav>
       </div>
-       <h1 className='main-title'>Reportes</h1>
+      <div className='title_d'>
+      <h1 className='main-title'>Reportes</h1>
+      </div>
+      
        <div className="report-list">
-      <h2 className='title' >Lista de Reportes</h2>
      <div className="table-container">
      <table>
         <thead className='title-t'>
