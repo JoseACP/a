@@ -27,7 +27,7 @@ function Login() {
                     localStorage.setItem('userId', data.userId);
                     // Redirigir al usuario a la pantalla de inicio (Home)
                     history('/Home');
-                    alert('amlo')
+                    console.log('amlo2')
                 } else {
                     console.error('Error en la respuesta de la API:', data);
                 }
